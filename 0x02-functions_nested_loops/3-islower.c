@@ -1,6 +1,8 @@
 #include "main.h"
 /**
-* Descriptions: lowecase character. another cases, shows 0
+ * main - Entry point
+* Descriptions: _islower - shows lowecase character.
+* another cases, shows 0
 * @c: the character in ASCII code
 *
 * return: 1 for lowercase character. 0 for the rest.
